@@ -1,1 +1,2 @@
 # khala
+# Parallel-sgd
